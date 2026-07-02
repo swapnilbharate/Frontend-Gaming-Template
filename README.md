@@ -100,9 +100,9 @@ npm run preview
 
 📧 Email: bharateswapnil96@gmail.com
 
-🐙 GitHub: https://github.com/swapnilbharate96
+🐙 GitHub: https://github.com/swapnilbharate
 
-💼 LinkedIn: https://www.linkedin.com/in/swapnil-bharate
+💼 LinkedIn: https://www.linkedin.com/in/swapnil-bharate96
 
 ## ⭐ Support
 
