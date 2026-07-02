@@ -102,7 +102,7 @@ npm run preview
 
 🐙 GitHub: https://github.com/swapnilbharate
 
-💼 LinkedIn: https://www.linkedin.com/in/swapnil-bharate96
+💼 LinkedIn: https://www.linkedin.com/in/swapnilbharate96
 
 ## ⭐ Support
 
