@@ -8,7 +8,7 @@ A modern and responsive Gaming Website Template built using React.js and Vite. T
 
 ## 📸 Preview
 
-<img width="1917" height="852" alt="Gaming temp" src="https://github.com/user-attachments/assets/0819092f-894b-4ddb-8cfc-1ecffd7a5e60" />
+<img width="1917" height="852" alt="Gaming Template" src="https://github.com/user-attachments/assets/0819092f-894b-4ddb-8cfc-1ecffd7a5e60" />
 
 ## ✨ Features
 
@@ -30,9 +30,9 @@ A modern and responsive Gaming Website Template built using React.js and Vite. T
 - CSS3
 - HTML5
 
-📂 Project Structure
+## 📂 Project Structure
 
-
+```text
 src/
 ├── assets/
 ├── components/
@@ -45,7 +45,7 @@ public/
 ├── recent-bg.png
 ├── tour1.jpg
 ├── tour2.jpg
-
+```
 
 ## ⚙️ Installation
 
@@ -53,41 +53,61 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/swapnilbharate/Frontend-Gaming-Template.git
+```
 
-Navigate to project folder:
+Navigate to the project folder:
 
+```bash
 cd Frontend-Gaming-Template
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
-Run development server:
+Run the development server:
 
+```bash
 npm run dev
-📦 Build for Production
+```
+
+## 📦 Build for Production
+
+```bash
 npm run build
+```
 
 Preview production build:
 
+```bash
 npm run preview
-🎯 Use Cases
-Gaming Landing Pages
-eSports Websites
-Gaming Community Platforms
-Tournament Websites
-Portfolio Projects
-UI Inspiration
-👨‍💻 Author
+```
 
-Swapnil Bharate
+## 🎯 Use Cases
 
-📧 bharateswapnil96@gmail.com
+- Gaming Landing Pages
+- eSports Websites
+- Gaming Community Platforms
+- Tournament Websites
+- Portfolio Projects
+- UI Inspiration
 
-🔗 GitHub: https://github.com/swapnilbharate
+## 👨‍💻 Author
 
-🔗 LinkedIn: https://www.linkedin.com/in/swapnil-bharate
+**Swapnil Bharate**
 
-⭐ Support
+📧 Email: bharateswapnil96@gmail.com
+
+🐙 GitHub: https://github.com/swapnilbharate
+
+💼 LinkedIn: https://www.linkedin.com/in/swapnil-bharate
+
+## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub and share it with others.
+
+---
+
+Made with ❤️ using React.js and Vite
