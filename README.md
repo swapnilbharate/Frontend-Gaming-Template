@@ -30,4 +30,64 @@ A modern and responsive Gaming Website Template built using React.js and Vite. T
 - CSS3
 - HTML5
 
-## 📂 Project Structure
+📂 Project Structure
+
+
+src/
+├── assets/
+├── components/
+├── App.jsx
+├── App.css
+├── main.jsx
+├── index.css
+
+public/
+├── recent-bg.png
+├── tour1.jpg
+├── tour2.jpg
+
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/swapnilbharate/Frontend-Gaming-Template.git
+
+Navigate to project folder:
+
+cd Frontend-Gaming-Template
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+📦 Build for Production
+npm run build
+
+Preview production build:
+
+npm run preview
+🎯 Use Cases
+Gaming Landing Pages
+eSports Websites
+Gaming Community Platforms
+Tournament Websites
+Portfolio Projects
+UI Inspiration
+👨‍💻 Author
+
+Swapnil Bharate
+
+📧 bharateswapnil96@gmail.com
+
+🔗 GitHub: https://github.com/swapnilbharate
+
+🔗 LinkedIn: https://www.linkedin.com/in/swapnil-bharate
+
+⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub and share it with others.
